@@ -1,9 +1,10 @@
-### Hi there 👋
-
-<!--
-**Wilscos/Wilscos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi, I'm Francesco! 📝
+<div id="badges">
+  <a href="mailto:francesco_di_cicco@hotmail.com"><img src="https://img.shields.io/badge/Email-francesco_di_cicco@hotmail.com-orange" alt="Email badge"/></a>
+  <a href="https://www.linkedin.com/in/francesco-di-cicco/"><img src="https://img.shields.io/badge/Follow-LinkedIn-blue" alt="LinkedIn Badge"/></a>
+  <a href="https://twitter.com/wilscos"><img src="https://img.shields.io/badge/Follow-Twitter-blue" alt="Twitter Badge"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Wilscos&style=flat-square&color=blue" alt="Profile Views Badge"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
