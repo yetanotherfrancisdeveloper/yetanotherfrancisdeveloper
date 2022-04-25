@@ -1,6 +1,5 @@
 <h1 align='center'>Hi, I'm Francesco! 📝 (He/Him)</h1>
 <div id="badges" align='center'>
-  <a href="https://wilscoscorner.com/"><img src="https://img.shields.io/badge/Website-wilscoscorner.com-red" alt="Website Badge"/></a>
   <a href="https://www.linkedin.com/in/francesco-di-cicco/"><img src="https://img.shields.io/badge/Follow-LinkedIn-blue" alt="LinkedIn Badge"/></a>
   <a href="https://twitter.com/wilscos"><img src="https://img.shields.io/badge/Follow-Twitter-blue" alt="Twitter Badge"/></a>
   <a href="https://ko-fi.com/wilscos"><img src="https://img.shields.io/badge/Donate-Kofi-blue" alt="Ko-fi Badge"/></a>
@@ -11,7 +10,7 @@
 
 I'm a data scientist from Naples who loves open source and helping.
 
-At the moment I'm looking for a full-time position as a Data Scientist and I'm working on several personal projects. In my spare time I like to read new papers in the NLP field, in particular regarding explainability and NLG, and writing posts on my <a href="https://wilscoscorner.com/">website</a>.
+At the moment I'm looking for a full-time position as a Data Scientist and I'm working on several personal projects. In my spare time I like to read new papers in the NLP field, in particular regarding explainability and NLG.
 
 ## Languages and tools 🔧
 
@@ -52,9 +51,3 @@ At the moment I'm looking for a full-time position as a Data Scientist and I'm w
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wilscos&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilscos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## My Website's Posts:
-
-- [Some useful Git commands for beginners](https://wilscoscorner.com/blog/git_commands_for_beginners)
-- [Huffman coding: a simple guide](https://wilscoscorner.com/math/huffman_coding)
-- [A look at the Bayes' theorem](https://wilscoscorner.com/stats/bayes)
