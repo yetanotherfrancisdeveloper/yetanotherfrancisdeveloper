@@ -1,7 +1,6 @@
 <h1 align='center'>Hi, I'm Francesco! 📝 (He/Him)</h1>
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/francesco-di-cicco/"><img src="https://img.shields.io/badge/Follow-LinkedIn-blue" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/wilscos"><img src="https://img.shields.io/badge/Follow-Twitter-blue" alt="Twitter Badge"/></a>
   <a href="mailto:francesco_di_cicco@hotmail.com"><img src="https://img.shields.io/badge/Email-francesco_di_cicco@hotmail.com-orange" alt="Email badge"/></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Wilscos&style=flat-square&color=blue" alt="Profile Views Badge"/>
