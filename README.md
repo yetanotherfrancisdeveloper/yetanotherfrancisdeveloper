@@ -36,16 +36,4 @@ At the moment I'm looking for a full-time position as a Data Scientist and I'm w
   <li><strong>HTML5</strong> and <strong>CSS3</strong>: I mainly used these for my website. I'm not an expert, but I know how to use them quite well.</li>
 </ul>
 
-## Favorite Hobbies
-
-<ul>
-  <li>🤝 <strong>Volunteering</strong>: I help colleagues and friends on a daily basis. I like being useful and help others. I'm actively looking for organizations where I can contribute.</li>
-  <li>🗺️ <strong>Open Source</strong>: I've started trying to contribute and support open source communities. My latest work is on the <a href="https://github.com/Wilscos/DeepNLG">DeepNLG repository</a> where I made the code work without issues and added some <em>Quality of Life</em> improvements.</li>
-  <li>📚 <strong>Reading</strong>: I usually read books on programming, statistics or deep learning, but I also like reading sci-fi, fantasy, formation novels. Anything that interests me or has an ingaging story.</li>
-</ul>
-
-## My stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wilscos&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilscos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
