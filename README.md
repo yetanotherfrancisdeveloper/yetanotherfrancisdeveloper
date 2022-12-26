@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Wilscos&style=flat-square&color=blue" alt="Profile Views Badge"/>
 </div>
 
-I'm a data scientist from Naples who loves open source and helping.
+I'm a data scientist from Italy who loves open source and helping.
 
 At the moment I'm looking for a full-time position as a Data Scientist and I'm working on several personal projects. In my spare time I like to read new papers in the NLP field, in particular regarding explainability and NLG.
 
