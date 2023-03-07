@@ -8,8 +8,6 @@
 
 I'm a data scientist from Italy who loves open source and helping.
 
-At the moment I'm looking for a full-time position as a Data Scientist and I'm working on several personal projects. 
-
 ## Languages and tools 🔧
 
 <div>
