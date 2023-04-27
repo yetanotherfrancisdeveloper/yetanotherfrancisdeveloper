@@ -31,5 +31,3 @@ I'm a data scientist from Italy who loves open source and helping.
   <li><strong>Python</strong>: I read and write python on a daily basis. I love the language and what the community has built with it.</li>
   <li><strong>Torch</strong>: I love deep learning and I really like using torch to deliver my solutions.</li>
   <li><strong>R</strong>: While I prefer python, I think R is still an important language when it comes to statistical analysis and machine learning. Don't get me wrong, I like the language, but not as much as I like python.</li>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilscos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
