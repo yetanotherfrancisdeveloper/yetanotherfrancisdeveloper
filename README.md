@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Wilscos&style=flat-square&color=blue" alt="Profile Views Badge"/>
 </div>
 
-I'm a data scientist from Italy who loves open source and helping.
+I'm a data scientist from Italy who loves open source and tech.
 
 ## Languages and tools 🔧
 
@@ -31,3 +31,6 @@ I'm a data scientist from Italy who loves open source and helping.
   <li><strong>Python</strong>: I read and write python on a daily basis. I love the language and what the community has built with it.</li>
   <li><strong>Torch</strong>: I love deep learning and I really like using torch to deliver my solutions.</li>
   <li><strong>R</strong>: While I prefer python, I think R is still an important language when it comes to statistical analysis and machine learning. Don't get me wrong, I like the language, but not as much as I like python.</li>
+<br>
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yetanotherfrancisdeveloper&theme=dracula)](https://github.com/yetanotherfrancisdeveloper/github-readme-stats)
