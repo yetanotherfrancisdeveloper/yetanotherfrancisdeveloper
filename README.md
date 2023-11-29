@@ -18,12 +18,9 @@ I'm a data scientist from Italy who loves open source and tech.
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 <br>
 
@@ -31,6 +28,7 @@ I'm a data scientist from Italy who loves open source and tech.
   <li><strong>Python</strong>: I read and write python on a daily basis. I love the language and what the community has built with it.</li>
   <li><strong>Torch</strong>: I love deep learning and I really like using torch to deliver my solutions.</li>
   <li><strong>R</strong>: While I prefer python, I think R is still an important language when it comes to statistical analysis and machine learning. Don't get me wrong, I like the language, but not as much as I like python.</li>
+  <li><strong>Kotlin</strong>: I recently started developing Android applications in my spare time for fun and to meet some needs of my own and others.</li>
 <br>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yetanotherfrancisdeveloper&theme=dracula)](https://github.com/yetanotherfrancisdeveloper/github-readme-stats)
